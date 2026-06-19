@@ -601,4 +601,4 @@ The software is provided "as is", without warranty of any kind.
 - **Intervals.icu:** [intervals.icu](https://intervals.icu)
 - **Discussion:** [Intervals.icu Forum Thread](https://forum.intervals.icu/t/section-11-open-protocol-for-ai-endurance-coaching-chatgpt-claude-grok-mistral/120602)
 
----
+----
